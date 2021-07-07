@@ -3,4 +3,4 @@
 Jupyter notebook dosyasını python dosyasına çevirmek (.ipynb->.py) için komut dizinine aşağıdaki kod yazılmalıdır
 
 
-jupyter nbconvert association_rules_analysis.ipynb --to python
+jupyter nbconvert dosya_ismi.ipynb --to python
